@@ -1,0 +1,11 @@
+- by: id
+  locator: com.xueqiu.android:id/search_input_text
+  action: click
+
+- by: id
+  locator: com.xueqiu.android:id/search_input_text
+  action: click
+
+- by: id
+  locator: com.xueqiu.android:id/search_input_text
+  action: click
